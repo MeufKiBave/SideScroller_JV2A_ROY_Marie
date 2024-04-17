@@ -1624,3 +1624,66 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.04.17-13.00.56:551][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 603 ms)
 [2024.04.17-13.00.56:552][816]AssetCheck: New page: Asset Save: SideScroller
 [2024.04.17-13.00.56:552][816]LogContentValidation: Display: Validating /Script/Engine.World /Game/ROY_Marie/Maps/SideScroller.SideScroller
+[2024.04.17-13.01.52:459][790]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.17-13.01.52:466][790]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.17-13.01.52:472][790]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.17-13.01.52:491][792]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.17-13.01.58:312][223]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.04.17-13.01.58:318][223]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.17-13.02.11:074][199]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RespownDead
+[2024.04.17-13.02.11:102][199]LogMetaData: Removing '/Game/ROY_Marie/Blueprints/BP_RespownDead.BP_RespownDead:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ROY_Marie/Blueprints/NewBlueprint.PackageMetaData'
+[2024.04.17-13.02.11:102][199]LogMetaData: Removing '/Game/ROY_Marie/Blueprints/BP_RespownDead.SKEL_BP_RespownDead_C:UserConstructionScript' ref from Metadata '/Game/ROY_Marie/Blueprints/NewBlueprint.PackageMetaData'
+[2024.04.17-13.02.11:102][199]LogMetaData: Removing '/Game/ROY_Marie/Blueprints/BP_RespownDead.SKEL_BP_RespownDead_C' ref from Metadata '/Game/ROY_Marie/Blueprints/NewBlueprint.PackageMetaData'
+[2024.04.17-13.02.11:102][199]LogMetaData: Removing '/Game/ROY_Marie/Blueprints/BP_RespownDead.BP_RespownDead_C' ref from Metadata '/Game/ROY_Marie/Blueprints/NewBlueprint.PackageMetaData'
+[2024.04.17-13.02.11:102][199]LogMetaData: Removing '/Game/ROY_Marie/Blueprints/BP_RespownDead.BP_RespownDead:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ROY_Marie/Blueprints/NewBlueprint.PackageMetaData'
+[2024.04.17-13.02.11:102][199]LogMetaData: Removing '/Game/ROY_Marie/Blueprints/BP_RespownDead.BP_RespownDead:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ROY_Marie/Blueprints/NewBlueprint.PackageMetaData'
+[2024.04.17-13.02.11:102][199]LogMetaData: Removing '/Game/ROY_Marie/Blueprints/BP_RespownDead.BP_RespownDead:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ROY_Marie/Blueprints/NewBlueprint.PackageMetaData'
+[2024.04.17-13.02.11:102][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.02.11:143][199]LogSavePackage: Moving output files for package: /Game/ROY_Marie/Blueprints/BP_RespownDead
+[2024.04.17-13.02.11:143][199]LogSavePackage: Moving 'E:/Exercice_UE5_JV2A_ROY_Marie/UE5_Rendu_ROY_Marie/SideScroller_JV2A_ROY_Marie/Saved/BP_RespownDead5BA8520740C894DC74C2EC891D5DD532.tmp' to 'E:/Exercice_UE5_JV2A_ROY_Marie/UE5_Rendu_ROY_Marie/SideScroller_JV2A_ROY_Marie/Content/ROY_Marie/Blueprints/BP_RespownDead.uasset'
+[2024.04.17-13.02.11:156][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 657 ms)
+[2024.04.17-13.02.11:180][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.17-13.02.11:195][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.17-13.02.11:210][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.17-13.02.11:211][199]AssetCheck: New page: Asset Save: BP_RespownDead
+[2024.04.17-13.02.11:211][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ROY_Marie/Blueprints/BP_RespownDead.BP_RespownDead
+[2024.04.17-13.02.27:938][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.04.17-13.02.27:939][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.02.27:939][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.04.11:145][611]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.04.17-13.04.11:179][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.17-13.04.13:606][776]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2024.04.17-13.04.13:613][776]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2024.04.17-13.04.13:623][776]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.04.13:623][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.04.22:666][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ROY_Marie/Blueprints/BP_RespownDead.BP_RespownDead
+[2024.04.17-13.04.22:666][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.04.22:666][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.04.22:853][426]LogViewport: Scene viewport resized to 822x760, mode Windowed.
+[2024.04.17-13.05.41:603][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.04.17-13.05.41:603][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.05.41:604][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.06.13:290][513]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.06.13:290][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.06.13:320][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.04.17-13.06.13:321][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.06.13:321][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.07.19:709][217]LogViewport: Scene viewport resized to 709x885, mode Windowed.
+[2024.04.17-13.08.23:069][129]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2024.04.17-13.08.23:096][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.17-13.09.24:481][558]LogViewport: Scene viewport resized to 948x877, mode Windowed.
+[2024.04.17-13.11.02:488][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.17-13.11.02:489][635]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ROY_Marie/Maps/SideScroller' took 0.014
+[2024.04.17-13.11.02:489][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2024.04.17-13.11.02:489][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2024.04.17-13.11.02:496][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1
+[2024.04.17-13.11.02:496][635]LogSavePackage: Moving 'E:/Exercice_UE5_JV2A_ROY_Marie/UE5_Rendu_ROY_Marie/SideScroller_JV2A_ROY_Marie/Saved/BP_ThirdPersonGameMode_Auto1C1A1314C4AE0B00823791784A883D6D9.tmp' to 'E:/Exercice_UE5_JV2A_ROY_Marie/UE5_Rendu_ROY_Marie/SideScroller_JV2A_ROY_Marie/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1.uasset'
+[2024.04.17-13.11.02:496][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ROY_Marie/Maps/_GENERATED/game/Box_A28AF7E8] ([1] browsable assets)...
+[2024.04.17-13.11.02:510][635]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ROY_Marie/Maps/_GENERATED/game/Box_A28AF7E8.Box_A28AF7E8]
+[2024.04.17-13.11.02:510][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ROY_Marie/Maps/_GENERATED/game/Box_A28AF7E8]
+[2024.04.17-13.11.02:515][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ROY_Marie/Maps/_GENERATED/game/Box_A28AF7E8_Auto1
+[2024.04.17-13.11.02:515][635]LogSavePackage: Moving 'E:/Exercice_UE5_JV2A_ROY_Marie/UE5_Rendu_ROY_Marie/SideScroller_JV2A_ROY_Marie/Saved/Box_A28AF7E8_Auto1C12FF09E44A47AF5D850A3960EB9D462.tmp' to 'E:/Exercice_UE5_JV2A_ROY_Marie/UE5_Rendu_ROY_Marie/SideScroller_JV2A_ROY_Marie/Saved/Autosaves/Game/ROY_Marie/Maps/_GENERATED/game/Box_A28AF7E8_Auto1.uasset'
+[2024.04.17-13.11.02:516][635]LogFileHelpers: Auto-saving content packages took 0.028
+[2024.04.17-13.11.53:524][976]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.157:55109, Sequence=0
+[2024.04.17-13.12.06:898][141]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.17-13.14.27:290][323]LogSlate: Window 'Project Settings' being destroyed
