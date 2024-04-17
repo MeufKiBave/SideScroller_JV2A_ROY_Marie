@@ -1,0 +1,6 @@
+J'ai, dans la forme, choisi Shader et Animation.
+
+Lorsque le joueur meurt en rattant ses jumps il arrive dans un PostProcessVolume et un KillzVolume qui delete le character.
+Par contre j'ai voulu faire en sorte en utilisant l'input [Space] pour reload la scene ou refaire respawn le player, mais j'ai passer beaucoup trop de temps donc j'ai pas eu le temps de faire le reste, et en plus il respawn pas.
+J'ai voulu m'aider de la doc pour faire respawn ou reload la scene mais aucun des deux foncitonnais
+
